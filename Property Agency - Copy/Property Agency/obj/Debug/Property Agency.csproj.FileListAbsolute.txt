@@ -1,0 +1,14 @@
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\bin\Debug\Property Agency.exe.config
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\bin\Debug\Property Agency.exe
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\bin\Debug\Property Agency.pdb
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\obj\Debug\Property Agency.csprojAssemblyReference.cache
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\obj\Debug\Property Agency.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\obj\Debug\Property Agency.exe
+P:\Digital\VS\18Yat Leung\Property Agency\Property Agency\obj\Debug\Property Agency.pdb
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\bin\Debug\Property Agency.exe.config
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\bin\Debug\Property Agency.exe
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\bin\Debug\Property Agency.pdb
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\obj\Debug\Property Agency.csprojAssemblyReference.cache
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\obj\Debug\Property Agency.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\obj\Debug\Property Agency.exe
+P:\Digital\VS\18Yat Leung\Property Agency - Copy\Property Agency\obj\Debug\Property Agency.pdb
